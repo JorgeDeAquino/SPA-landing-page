@@ -1,0 +1,36 @@
+@import '../abstract/variaveis';
+@import '../components/servicos';
+
+#infos {
+    .img-container {
+        margin: 1.5rem 0 1rem 0;
+        text-align: center;
+        img {
+            max-width: 100%;
+        }
+    }
+    .textos-info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        gap: 0.8rem;
+        h3 {
+            font-size: $tamanho-do-texto / 2.5;
+            text-transform: uppercase;
+            color: $cor-primaria;
+            font-weight: 500;
+        }
+        h4 {
+            font-size: $tamanho-do-texto / 2;
+            color: $cor-secundaria;
+            font-weight: bold;
+        }
+        p {
+            font-size: $tamanho-do-texto / 3.5;
+            line-height: 1.4rem;
+            color: $cor-terciaria;
+        }
+    }
+}
