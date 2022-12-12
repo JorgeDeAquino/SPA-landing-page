@@ -19,13 +19,6 @@ Deseja conferir como ficou o resultado do projeto? Teste a funcionalidade atrav√
   <br>
 
 <h2>Tecnologias utilizadas:</h2>
-
-<div>
-        <img align="center" alt="Jorge-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <span>JavaScript</span>
-</div>
-	
-<br> 
 	
 <div>
         <img align="center" alt="Jorge-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
